@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Client List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="delete">Удалить</string>
+    <string name="browse">Открыть с помоцью:</string>
+    <string name="text_settings">Настройки текста</string>
+    <string name="text_color_name">Цвет имени клиента</string>
+    <string name="text_color_tel">Цвет номера телефона</string>
+    <string name="text_color_note_tel">Выберите цвет номера телефона клиента</string>
+    <string name="text_color_note_name">Выберите цвет имени клиента</string>
+    <string name="text_color_sec_name">Цвет фамилии клиента</string>
+    <string name="text_color_note_sec_name">Выберите цвет фамилии клиента</string>
+    <string name="message">Вы действительно хотите удалить клиента?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="menu_home">Home</string>
+    <string name="edit">Редактировать</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="name">Имя</string>
+    <string name="name_v">Имя:</string>
+    <string name="sec_name">Фамилия</string>
+    <string name="tel">Телефон</string>
+    <string name="tel_v">Телефон:</string>
+    <string name="important">Важный</string>
+    <string name="no_important">Не важный</string>
+    <string name="normal">Обычный</string>
+    <string name="notes">Заметки</string>
+    <string name="special">Особый</string>
+    <string name="important_v0">Важные клиенты</string>
+    <string name="important_v1">Нормальные клиенты</string>
+    <string name="important_v2">Не важные клиенты</string>
+    <string name="special_v">Особые клиенты</string>
+    <string name="client_base">База клиентов</string>
+    <string name="search">Поиск</string>
+    <string name="title">Важность</string>
+    <string name="start">Начать</string>
+
+    <string name="client">Клиент</string>
+    <string name="gen_set">Главные настройки</string>
+    <string name="web">WEB-страница</string>
+    <string name="help">Помощь</string>
+    <string name="message_help">Нажмите на + в правом нижнем углу экрана для того,чтобы создать нового клиента и внести его в базу данных.Для изменения цвета интерфейса,зайдите в главные настроки и установите цвет ,который вам нравится. </string>
+    <string name="list_key_text_color_name">list_key_text_color_name</string>
+    <string name="list_key_text_color_sec_name">list_key_text_color_sec_name</string>
+    <string name="list_key_text_color_tel">list_key_text_color_tel</string>
+
+</resources>
